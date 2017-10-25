@@ -1,4 +1,4 @@
-# Doc clustering
+# Doc clustering ... test document
 # https://stackoverflow.com/questions/27889873/clustering-text-documents-using-scikit-learn-kmeans-in-python
 
 from sklearn.feature_extraction.text import TfidfVectorizer
