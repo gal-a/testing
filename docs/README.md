@@ -11,6 +11,7 @@ Testing project
 [Test local html](test_folder/test.html) 
 
 ## External
+<a href="https://github.com/gal-a/testing/blob/master/docs/test_folder/Scraping_For_Data.ipynb" target="_blank">Test external link to testing file</a>  
 <a href="https://github.com/gal-a/testing" target="_blank">Test external link to testing folder</a>  
 
 Instructions
