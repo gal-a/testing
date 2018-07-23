@@ -7,6 +7,7 @@ Testing project
 [Google](https://www.google.com)  
 [Yahoo](http://www.yahoo.com)  
 [Test link](test_folder/Scraping_For_Data.ipynb)  
+[Test html](test_folder/test.html)  
 
 Instructions
 
