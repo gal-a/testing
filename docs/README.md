@@ -6,7 +6,10 @@ Testing project
 
 [Google](https://www.google.com)  
 [Yahoo](http://www.yahoo.com)  
-[Test link](http://nbviewer.jupyter.org/github/testing/test_folder/Scraping_For_Data.ipynb)  
+
+[testing root dir](https://github.com/gal-a/testing)
+[Github ipynb](https://github.com/gal-a/testing/blob/master/docs/test_folder/Scraping_For_Data.ipynb)
+
 [Test html](test_folder/test.html)  
 
 Instructions
