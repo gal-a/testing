@@ -33,8 +33,8 @@
 <a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/plot/plot_interpolate.ipynb" target="_blank">Scipy interpolate</a>  
 
 ### Sklearn
-<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/sklearn/sklearn_precision_recall_vs_roc_curves.ipynb" target="_blank">Scipy interpolate</a>  
-Logistic regression vs GBM  
+<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/sklearn/sklearn_precision_recall_vs_roc_curves.ipynb" target="_blank">Precision-Recall vs ROC curves</a>  
+Logistic Regression vs GBM  
 Decision tree  
 Compare classifiers  
 
@@ -49,8 +49,6 @@ NLTK - TF-IDF
 
 
 
-
-
 Instructions
 ```
 Give examples
@@ -60,4 +58,4 @@ def func(a):
     return
 ```
 
-
+Copyright © Gal Arav, 2018.
