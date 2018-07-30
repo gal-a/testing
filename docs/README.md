@@ -18,7 +18,6 @@ Testing project
 ### Pandas
 <a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_basic_operations.ipynb" target="_blank">Basic pandas operations</a>  
 <a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_build_dataframes.ipynb" target="_blank">Build dataframes</a>  
-<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_missing_data.ipynb" target="_blank">Missing data</a>  
 <a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_convert_types.ipynb" target="_blank">Convert types</a>  
 <a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_modify_series.ipynb" target="_blank">Modify series</a>  
 <a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_merge_concat.ipynb" target="_blank">Merge and concat</a>  
@@ -28,6 +27,7 @@ Testing project
 <a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_datetime.ipynb" target="_blank">DateTime</a>  
 
 ### Plotting
+<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/plot/plot_scatter_for_EDA.ipynb" target="_blank">Scatter plots for EDA</a>  
 <a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/plot/plot_seaborn_heatmap.ipynb" target="_blank">Seaborn heatmap</a>  
 <a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/plot/plot_seaborn_distplots.ipynb" target="_blank">Seaborn distplots</a>  
 <a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/plot/plot_boxplot.ipynb" target="_blank">Pandas boxplot</a>  
