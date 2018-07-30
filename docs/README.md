@@ -1,6 +1,3 @@
-# Project Title
-Testing project
-
 ## Getting Started
 [Google](https://www.google.com)  
 [Yahoo](http://www.yahoo.com)  
