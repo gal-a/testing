@@ -10,28 +10,19 @@
 ## External
 <a href="https://github.com/gal-a/testing/blob/master/docs/test_folder/Scraping_For_Data.ipynb" target="_blank">Test external link to testing file</a>  
 
-## Notebooks2
+## Notebooks
 
-|1   |2   | 3  |  4 |   5|
-|---|---|---|---|---|
-|  11 | 22  | 33  | 44  |  55 |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   | 3  |
-|   |   |4   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-
-### Pandas
-<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_basic_operations.ipynb" target="_blank">Basic pandas operations</a>  
-<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_build_dataframes.ipynb" target="_blank">Build dataframes</a>  
-<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_convert_types.ipynb" target="_blank">Convert types</a>  
-<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_modify_series.ipynb" target="_blank">Modify series</a>  
-<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_merge_concat.ipynb" target="_blank">Merge and concat</a>  
-<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_missing_data.ipynb" target="_blank">Missing data</a>  
-<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_groupby.ipynb.ipynb" target="_blank">Group by</a>  
-<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_agg.ipynb" target="_blank">Aggregate</a>  
-<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_datetime.ipynb" target="_blank">DateTime</a>  
+|Pandas I|Pandas II|Plotting|Misc.|
+|---|---|---|---|
+<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_basic_operations.ipynb" target="_blank">Basic pandas operations</a>|  
+<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_build_dataframes.ipynb" target="_blank">Build dataframes</a>|  
+<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_convert_types.ipynb" target="_blank">Convert types</a>|  
+<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_modify_series.ipynb" target="_blank">Modify series</a>|  
+<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_merge_concat.ipynb" target="_blank">Merge and concat</a>|  
+<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_missing_data.ipynb" target="_blank">Missing data</a>|  
+<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_groupby.ipynb.ipynb" target="_blank">Group by</a>|  
+<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_agg.ipynb" target="_blank">Aggregate</a>|  
+<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_datetime.ipynb" target="_blank">DateTime</a>|  
 
 ### Plotting
 <a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/plot/plot_scatter_for_EDA.ipynb" target="_blank">Scatter plots for EDA</a>  
