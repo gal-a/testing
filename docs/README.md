@@ -10,20 +10,20 @@
 ## External
 <a href="https://github.com/gal-a/testing/blob/master/docs/test_folder/Scraping_For_Data.ipynb" target="_blank">Test external link to testing file</a>  
 
-## Notebooks4
+## Notebooks
 
 ### Pandas I
-<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_basic_operations.ipynb" target="_blank">Basic pandas operations</a>|  
-<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_build_dataframes.ipynb" target="_blank">Build dataframes</a>|  
-<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_convert_types.ipynb" target="_blank">Convert types</a>|  
-<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_modify_series.ipynb" target="_blank">Modify series</a>|  
-<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_merge_concat.ipynb" target="_blank">Merge and concat</a>|  
+<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_basic_operations.ipynb" target="_blank">Basic pandas operations</a>  
+<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_build_dataframes.ipynb" target="_blank">Build dataframes</a>  
+<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_convert_types.ipynb" target="_blank">Convert types</a>  
+<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_modify_series.ipynb" target="_blank">Modify series</a>  
+<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_merge_concat.ipynb" target="_blank">Merge and concat</a>  
 
 ### Pandas II
-<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_handle_missing_data.ipynb" target="_blank">Handle missing data</a>|  
-<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_groupby.ipynb.ipynb" target="_blank">Group by</a>|  
-<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_agg.ipynb" target="_blank">Aggregate</a>|  
-<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_datetime.ipynb" target="_blank">DateTime</a>|  
+<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_handle_missing_data.ipynb" target="_blank">Handle missing data</a>  
+<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_groupby.ipynb.ipynb" target="_blank">Group by</a>  
+<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_agg.ipynb" target="_blank">Aggregate</a>  
+<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/pandas/pandas_datetime.ipynb" target="_blank">DateTime</a>  
 
 ### Plotting data
 <a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/plot/plot_scatter_for_EDA.ipynb" target="_blank">Scatter plots for EDA</a>  
@@ -32,16 +32,16 @@
 <a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/plot/plot_boxplot.ipynb" target="_blank">Pandas boxplot</a>  
 <a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/plot/plot_interpolate.ipynb" target="_blank">Scipy interpolate</a>  
 
-### Miscellaneous
-<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/misc/numpy_basics.ipynb" target="_blank">Numpy basics</a>  
-<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/misc/list_comprehensions.ipynb" target="_blank">List comprehensions</a>  
-<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/misc/html_extracting_table_data.ipynb" target="_blank">Extracting table data from the web</a>  
-
 ### Sklearn
 <a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/sklearn/sklearn_precision_recall_vs_roc_curves.ipynb" target="_blank">Scipy interpolate</a>  
 Logistic regression vs GBM  
 Decision tree  
 Compare classifiers  
+
+### Miscellaneous
+<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/misc/list_comprehensions.ipynb" target="_blank">List comprehensions</a>  
+<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/misc/html_extracting_table_data.ipynb" target="_blank">Extracting table data from the web</a>  
+<a href="https://github.com/gal-a/blog/blob/master/docs/notebooks/misc/numpy_basics.ipynb" target="_blank">Numpy basics</a>  
 
 ### NLP
 NLTK - preprocess data  
